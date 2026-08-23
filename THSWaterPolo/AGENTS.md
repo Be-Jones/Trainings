@@ -2,7 +2,7 @@
 
 These instructions apply to every file in this directory. Follow them when editing, building, or deploying the THS Water Polo site.
 
-An identical deployable copy lives at `public/AGENTS.md`, with its compatibility pointer at `public/AGENT.md`. Keep the root and `public/` copies synchronized when changing these instructions.
+An identical deployable copy lives at `public/AGENTS.md`. Keep the root and `public/` copies synchronized when changing these instructions.
 
 ## Repository Layout
 
